@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(1,1): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(1,1): message : "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(90,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(111,2): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(30,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(31,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(32,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(33,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\BrewK\Desktop\vs работы\кп1\Source.c(34,1): warning C4305: инициализация: усечение из "double" в "float"
+  кп1.vcxproj -> C:\Users\BrewK\Desktop\vs работы\кп1\x64\Debug\кп1.exe
